@@ -45,6 +45,5 @@ Write a program that accepts a credit card number as a command-line argument. Th
 
 ## Solution
 Run script using:
-`ruby init.rb`
 
-![command example](https://imgur.com/w23oRnd)
+`ruby init.rb`
